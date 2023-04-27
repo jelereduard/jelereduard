@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jelereduard
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Next.js
 - :computer: Currently working as a Fullstack Web Developer with Java (SpringBoot) and ReactJS
 - 📫 How to reach me jelereduardalexandru@gmail.com
 
